@@ -1,0 +1,11 @@
+/home/deeps/Documents/UA-AnsiC-Legacy/build/CMakeFiles/test.dir
+/home/deeps/Documents/UA-AnsiC-Legacy/build/CMakeFiles/edit_cache.dir
+/home/deeps/Documents/UA-AnsiC-Legacy/build/CMakeFiles/rebuild_cache.dir
+/home/deeps/Documents/UA-AnsiC-Legacy/build/Stack/CMakeFiles/edit_cache.dir
+/home/deeps/Documents/UA-AnsiC-Legacy/build/Stack/CMakeFiles/rebuild_cache.dir
+/home/deeps/Documents/UA-AnsiC-Legacy/build/Stack/CMakeFiles/test.dir
+/home/deeps/Documents/UA-AnsiC-Legacy/build/Stack/CMakeFiles/uastack.dir
+/home/deeps/Documents/UA-AnsiC-Legacy/build/AnsiCSample/CMakeFiles/test.dir
+/home/deeps/Documents/UA-AnsiC-Legacy/build/AnsiCSample/CMakeFiles/edit_cache.dir
+/home/deeps/Documents/UA-AnsiC-Legacy/build/AnsiCSample/CMakeFiles/rebuild_cache.dir
+/home/deeps/Documents/UA-AnsiC-Legacy/build/AnsiCSample/CMakeFiles/AnsiCServer.dir
